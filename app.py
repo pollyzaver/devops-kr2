@@ -1,3 +1,4 @@
+# KR2: Завершинская
 import os
 import socket
 
